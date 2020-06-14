@@ -139,7 +139,7 @@ enableEmoji = true
           disclaimer = ""
         # Home page posts
         [languages.en.params.home.posts]
-          enable = true
+          enable = false
           # special amount of posts in each home posts page
           paginate = 6
       # Social config in home page
@@ -298,7 +298,7 @@ enableEmoji = true
       Mix = false
     # Comment config
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       [params.page.comment.disqus]
         enable = false
@@ -313,7 +313,7 @@ enableEmoji = true
         clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = true
+        enable = false
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -387,8 +387,8 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        name = "Jeremy Forsythe"
+        logoUrl = "/images/android-chrome-512x512.png"
 
   # TypeIt config
   # TypeIt 配置
@@ -413,7 +413,7 @@ enableEmoji = true
   # Site SEO config
   [params.seo]
     # image URL
-    image = "/images/Apple-Devices-Preview.png"
+    image = "/images/android-chrome-512x512.png"
     # thumbnail URL
     thumbnailUrl = "/images/screenshot.png"
 
