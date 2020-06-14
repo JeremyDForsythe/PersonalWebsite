@@ -148,7 +148,7 @@ enableEmoji = true
       Stackoverflow = "4455620/jforsythe"
       Researchgate = "Jeremy_Forsythe"
       Email = "jdforsy@g.clemson.edu"
-      RSS = true
+      RSS = false
 
 
 [params]

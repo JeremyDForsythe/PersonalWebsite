@@ -68,7 +68,7 @@ The photosynthetic pathway on the other hand represents a win-win scenario as pl
 <iframe width="490" height="275.625" src="https://www.youtube.com/embed/CR4Anc8Mkas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-I first saw the phrase "Breathing of Biosphere" in a [turner review](https://www.publish.csiro.au/bt/BT07151) paper by Dennis Baldocchi. In it he describes the adoption of eddy covariance flux technology by ecologists. Once a procedure only used by specialists in the field of meteorology, it's use has since broadened to become the prominent methodology for studying the exchanges of energy and gases between the atmosphere and the biosphere.
+I first saw the phrase "Breathing of Biosphere" in a [turner review](https://www.publish.csiro.au/bt/BT07151) paper by Dennis Baldocchi. In it he describes the adoption of eddy covariance flux technology by ecologists. Once a procedure only used by specialists in the field of meteorology, its use has since broadened to become the prominent methodology for studying the exchanges of energy and gases between the atmosphere and the biosphere.
 
 Eddy covariance flux towers are constructed over an ecosystem of interest and are comprised of state-of-art sensors that are able to rapidly measure gas concentrations, heat, wind speed, and other meteorological variables.  For more information on the science behind eddy covariance check out the above video from NEON, the National Ecological Observatory Network, and [this free textbook from G. Burba and D. Anderson of LI-COR Biosciences](https://www.licor.com/env/pdf/eddy_covariance/Brief_Intro_Eddy_Covariance.pdf).
 
