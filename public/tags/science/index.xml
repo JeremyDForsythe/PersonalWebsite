@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Science - Tag - Jeremy Forsythe</title>
+        <link>https://www.jeremyforsythe.dev/tags/science/</link>
+        <description>Science - Tag - Jeremy Forsythe</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 07 Jun 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://www.jeremyforsythe.dev/tags/science/" rel="self" type="application/rss+xml" /><item>
+    <title>First Post : Measuring The Breathing of the Biosphere</title>
+    <link>https://www.jeremyforsythe.dev/2020_06_09_firstpost/</link>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://www.jeremyforsythe.dev/2020_06_09_firstpost/</guid>
+    <description><![CDATA[<p>In this article I talk about what it means to be measuring the &ldquo;Breathing of the Biosphere&rdquo;,
+offer some foundational information about climate science, and introduce our eddy covariance flux instruments. The photo above is of our lab technician Mike Kline and myself installing a methane sensor on our latest tower, US-HB4, located above a managed brackish wetland.</p>]]></description>
+</item></channel>
+</rss>
