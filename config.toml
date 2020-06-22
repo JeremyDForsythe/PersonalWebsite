@@ -177,9 +177,9 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "                   Jeremy Forsythe"
+      name = "Jeremy Forsythe"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i>"
+      pre = "<i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i><span style='display:inline-block; width: YOURWIDTH;''></span>"
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
