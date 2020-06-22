@@ -26,7 +26,7 @@ enableEmoji = true
         identifier = "about"
         pre = "<i class='fas fa-address-card'></i>"
         post = ""
-        name = "About"
+        name = "&nbsp; About"
         url = "/about/"
         title = ""
         weight = 1
@@ -36,7 +36,7 @@ enableEmoji = true
         pre = "<i class='fas fa-list'></i>"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = "Posts"
+        name = "&nbsp; Posts"
         url = "/posts/"
         # title will be shown when you hover on this menu link.
         title = ""
@@ -47,7 +47,7 @@ enableEmoji = true
         pre = "<i class='fas fa-camera'></i>"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = "PhenoCam"
+        name = "&nbsp; PhenoCam"
         url = "/livepheno/"
         # title will be shown when you hover on this menu link.
         title = ""
@@ -56,7 +56,7 @@ enableEmoji = true
         identifier = "data"
         pre = "<i class='fas fa-archive'></i>"
         post = ""
-        name = "Data"
+        name = "&nbsp; Data"
         url = "/data/"
         title = ""
         weight = 4
@@ -64,7 +64,7 @@ enableEmoji = true
         identifier = "software"
         pre = "<i class='fas fa-code'></i>"
         post = ""
-        name = "Software"
+        name = "&nbsp; Software"
         url = "/software/"
         title = ""
         weight = 5
@@ -177,7 +177,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = " Jeremy Forsythe"
+      name = "&nbsp; Jeremy Forsythe"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
