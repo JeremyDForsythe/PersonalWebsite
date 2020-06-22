@@ -177,7 +177,7 @@ enableEmoji = true
       # URL of the LOGO
       logo = ""
       # title name
-      name = "<span style='display:inline-block; width: 10px;'></span> Jeremy Forsythe"
+      name = "                   Jeremy Forsythe"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = "<i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i>"
       # you can add extra information after the name (HTML format is supported), such as icons
