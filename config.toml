@@ -24,19 +24,19 @@ enableEmoji = true
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        pre = "<i class='fas fa-address-card'></i>"
+        pre = "<i class='fas fa-address-card'></i><span style='display:inline-block; width: 5px;''></span>"
         post = ""
-        name = " About"
+        name = "About"
         url = "/about/"
         title = ""
         weight = 1
       [[languages.en.menu.main]]
         identifier = "posts"
         # you can add extra information before the name (HTML format is supported), such as icons
-        pre = "<i class='fas fa-list'></i>"
+        pre = "<i class='fas fa-list'></i><span style='display:inline-block; width: 5px;''></span>"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = " Posts"
+        name = "Posts"
         url = "/posts/"
         # title will be shown when you hover on this menu link.
         title = ""
@@ -44,27 +44,27 @@ enableEmoji = true
       [[languages.en.menu.main]]
         identifier = "livepheno"
         # you can add extra information before the name (HTML format is supported), such as icons
-        pre = "<i class='fas fa-camera'></i>"
+        pre = "<i class='fas fa-camera'></i><span style='display:inline-block; width: 5px;''></span>"
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
-        name = " PhenoCam"
+        name = "PhenoCam"
         url = "/livepheno/"
         # title will be shown when you hover on this menu link.
         title = ""
         weight = 3
       [[languages.en.menu.main]]
         identifier = "data"
-        pre = "<i class='fas fa-archive'></i>"
+        pre = "<i class='fas fa-archive'></i><span style='display:inline-block; width: 5px;''></span>"
         post = ""
-        name = " Data"
+        name = "Data"
         url = "/data/"
         title = ""
         weight = 4
       [[languages.en.menu.main]]
         identifier = "software"
-        pre = "<i class='fas fa-code'></i>"
+        pre = "<i class='fas fa-code'></i><span style='display:inline-block; width: 5px;''></span>"
         post = ""
-        name = " Software"
+        name = "Software"
         url = "/software/"
         title = ""
         weight = 5
