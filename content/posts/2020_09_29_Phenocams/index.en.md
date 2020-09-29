@@ -30,7 +30,7 @@ Tower, this is ghost rider requesting a flyby... Check out this amazing shot cap
 
 Our lab uses a "phenocam" (digital camera set up at a fixed location to capture time-lapse images) to measure the phenology of plants. By taking a snapshot every 30 minutes we can track everything from tidal levels to canopy photosynthesis to leaf color/senescence in the fall. 
 
-This time we captured even more than we bargained for when this snap from our US-HB1 salt marsh site at North Inlet Crab Haul Creek in South Carolina. We were lucky enough to catch this curious (angry?) bird mid-flight 
+This time we captured even more than we bargained for when this snap from our US-HB1 salt marsh site at North Inlet Crab Haul Creek in South Carolina was lucky enough to catch this curious (angry?) bird mid-flight.
 
 Keep on eye on our phenocams (updated every 30 minutes) by [clicking here]({{< ref "/livepheno" >}}) and let me know if you see anything great! 
 
