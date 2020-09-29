@@ -42,11 +42,20 @@ is this webpage, which was built in Hugo, themed with LoveIt, pushed to GitHub, 
 <img src="Lab.png", width =150>
 </p>
 
-### "In House" Lab Coding Projects
+### "In House" Lab Coding Projects (Please Contact Me If You Are Interested In The Source Code, Or Developing One Of These Projects Into An Open Source Program)
 
-* <span style="text-decoration:underline"> Flux Tower QA/QC:</span>  
+* <span style="text-decoration:underline"> Flux Tower QA/QC:</span> 
+  * In George Burba's book [A Brief Practical Guide to Eddy Covariance Flux](https://www.licor.com/env/pdf/eddy_covariance/Brief_Intro_Eddy_Covariance.pdf), he describes the main challenge of adopting eddy covariance flux methods for research "is the shear complexity of system design, implementation and processing of the large volume of data". As our flux sensors record observations at 10hz continously throughout the year, we wanted a way to keep track of the performance of our instruments and flag interesting or anomalous readings. 
+  * Built in R Markdown and utilizing code chunks from R and Python, the Flux Tower QA/QC program automatically generates a PDF document reporting out of tolerance values, plotting timeseries for variables of interest, and converts diagnostic codes from our Licor and Cambell Scientific hardware into counts, descriptions, and time down percentages. 
+
 * <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>  
+  * We publish our publicly availabe data to the Ameriflux network, which was established to store, distribute, and synthesize data from eddy covariance sites studying terrestrial carbon cycling in the Americas. Since the network accepts data from PI-managed sites in addition to its own towers, there is a set of protocols that are used to standardize the data across the network. 
+  * Using R code the Ameriflux data pipeline combines the output from [Licor's Eddypro Software](https://www.licor.com/env/support/EddyPro/home.html) and measurements made by our meteorology stations to an Ameriflux formatted CSV data file that is ready to submit to the network.
+
 * <span style="text-decoration:underline"> Analyzing Forest Diameter Distributions with Maximum Likelihood:</span>
+  * The underlying distribution of tree diameters is often used by foresters and ecologists examing the health and stability of tree populations.
+  * This R code determines which distribution best fits a sampled tree population from a pool of candidate models using maximum likelihood methods.
+  * This project is part of a publication that is currently being drafted and will soon be a R package available through github.
 
 <p style="margin-bottom:1.5cm;"></p>
 

@@ -25,7 +25,7 @@ it can be accessed through our sites' Ameriflux pages:
 * [US-HB1 : North Inlet Salt Marsh at Hobcaw Barony](https://ameriflux.lbl.gov/sites/siteinfo/US-HB1)
 * [US-HB2 : Hobcaw Barony Mature Longleaf Pine](https://ameriflux.lbl.gov/sites/siteinfo/US-HB2)
 * [US-HB3 : Hobcaw Barony Longleaf Pine Restoration](https://ameriflux.lbl.gov/sites/siteinfo/US-HB3)
-* *US-HB4 : Brackish Impounded Wetland (Coming Soon)*
+* [US-HB4 : Brackish Impounded Wetland](https://ameriflux.lbl.gov/sites/siteinfo/US-HB4)
 
 I will post data publishing updates here on the blog each time we process a new batch (typically yearly). To stay in the loop please [follow me on Twitter](https://twitter.com/JDForsythe12).
 
