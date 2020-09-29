@@ -42,7 +42,9 @@ is this webpage, which was built in Hugo, themed with LoveIt, pushed to GitHub, 
 <img src="Lab.png", width =150>
 </p>
 
-### "In House" Lab Coding Projects (Please Contact Me If You Are Interested In The Source Code, Or Developing One Of These Projects Into An Open Source Program)
+### "In House" Lab Coding Projects 
+
+(Please <a href = "mailto: jdforsy@g.clemson.edu"> contact me</a> if You Are Interested In The Source Code, Or Developing One Of These Projects Into An Open Source Program)
 
 * <span style="text-decoration:underline"> Flux Tower QA/QC:</span> 
   * In George Burba's book [A Brief Practical Guide to Eddy Covariance Flux](https://www.licor.com/env/pdf/eddy_covariance/Brief_Intro_Eddy_Covariance.pdf), he describes the main challenge of adopting eddy covariance flux methods for research "is the shear complexity of system design, implementation and processing of the large volume of data". As our flux sensors record observations at 10hz continously throughout the year, we wanted a way to keep track of the performance of our instruments and flag interesting or anomalous readings. 
