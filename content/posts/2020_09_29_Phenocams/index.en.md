@@ -32,6 +32,6 @@ Our lab uses a "phenocam" (digital camera set up at a fixed location to capture 
 
 This time we captured even more than we bargained for when this snap from our US-HB1 salt marsh site at North Inlet Crab Haul Creek in South Carolina. We were lucky enough to catch this curious (angry?) bird mid-flight 
 
-Keep on eye on our phenocams (updated every 30 minutes) by [clicking here <i class='fas fa-camera'></i> ]({{< ref "/livepheno" >}}) <p>&nbsp;<p> and let me know if you see anything great! 
+Keep on eye on our phenocams (updated every 30 minutes) by [clicking here]({{< ref "/livepheno" >}}) and let me know if you see anything great! 
 
 <p align="center" style="margin-top:1.25cm;"><i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i></p>
