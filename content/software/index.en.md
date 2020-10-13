@@ -51,7 +51,7 @@ is this webpage, which was built in Hugo, themed with LoveIt, pushed to GitHub, 
   * Built in R Markdown and utilizing code chunks from R and Python, the Flux Tower QA/QC program automatically generates a PDF document reporting out of tolerance values, plotting timeseries for variables of interest, and converts diagnostic codes from our Licor and Cambell Scientific hardware into counts, descriptions, and time down percentages. 
 
 * <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>  
-  * We publish our publicly availabe data to the Ameriflux network, which was established to store, distribute, and synthesize data from eddy covariance sites studying terrestrial carbon cycling in the Americas. Since the network accepts data from PI-managed sites in addition to its own towers, there is a set of protocols that are used to standardize the data across the network. 
+  * We publish our publicly available data to the Ameriflux network, which was established to store, distribute, and synthesize data from eddy covariance sites studying terrestrial carbon cycling in the Americas. Since the network accepts data from PI-managed sites in addition to its own towers, there is a set of protocols that are used to standardize the data across the network. 
   * Using R code the Ameriflux data pipeline combines the output from [Licor's Eddypro Software](https://www.licor.com/env/support/EddyPro/home.html) and measurements made by our meteorology stations to an Ameriflux formatted CSV data file that is ready to submit to the network.
 
 * <span style="text-decoration:underline"> Analyzing Forest Diameter Distributions with Maximum Likelihood:</span>
