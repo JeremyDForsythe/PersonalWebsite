@@ -69,13 +69,21 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.en.menu.main]]
+        identifier = "publications"
+        pre = "<i class='fas fa-book-open'></i><span style='display:inline-block; width: 5px;''></span>"
+        post = ""
+        name = "Publications"
+        url = "/publications/"
+        title = ""
+        weight = 6
+      [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
         url = "https://github.com/JeremyDForsythe"
         title = "GitHub"
-        weight = 6
+        weight = 7
     [languages.en.params]
       # site description
       description = "Jeremy Forsythe's Personal Webpage"

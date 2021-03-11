@@ -62,7 +62,7 @@ is this webpage, which was built in Hugo, themed with LoveIt, pushed to GitHub, 
 <p style="margin-bottom:1.5cm;"></p>
 
 <p align="center">
-<img src="Chart.png", width =150>
+<img src="Globe.png", width =150>
 </p>
 
 ### Freelance / Collaboration
