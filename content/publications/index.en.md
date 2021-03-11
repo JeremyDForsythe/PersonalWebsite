@@ -17,7 +17,7 @@ date: 2021-03-11
 <img src="Chart.png", width =200>
 </p>
 
-### Posters
+### Posters & Presentations
 
 <ul>
 <li><a href="https://www.researchgate.net/publication/349702383_An_Eddy_Covariance_Mesonet_Measuring_Coastal_Carbon_Fluxes_in_South_Carolina" target="_blank"> Forsythe J D, O'Halloran T L, Williams T, Kaminski R, Kline M A. An Eddy Covariance Mesonet Measuring Coastal Carbon Fluxes in South Carolina. Poster presented at: 7th North American Carbon Program Open Science Meeting; 2021 March. DOI: 10.13140/RG.2.2.21100.28804 </a></li>
