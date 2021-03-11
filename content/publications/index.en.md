@@ -10,7 +10,7 @@ date: 2021-03-11
 ### Publications
 
 <ul>
-<li><a href="https://www.mdpi.com/856994"> Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal south carolina. Data 5:1–20.</a></li>
+<li><a href="https://www.mdpi.com/856994" target="_blank"> Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal south carolina. Data 5:1–20.</a></li>
 </ul> 
 
 <p align="center" style="margin-top:1.25cm;">
@@ -20,6 +20,6 @@ date: 2021-03-11
 ### Posters
 
 <ul>
-<li><a href="https://www.researchgate.net/publication/349702383_An_Eddy_Covariance_Mesonet_Measuring_Coastal_Carbon_Fluxes_in_South_Carolina"> Forsythe J D, O'Halloran T L, Williams T, Kaminski R, Kline M A. An Eddy Covariance Mesonet Measuring Coastal Carbon Fluxes in South Carolina. Poster presented at: 7th North American Carbon Program Open Science Meeting; 2021 March. DOI: 10.13140/RG.2.2.21100.28804 </a></li>
-<li><a href="https://www.researchgate.net/publication/344619699_Establishing_An_Eddy_Covariance_Mesonet_in_Coastal_South_Carolina"> Forsythe J D, O'Halloran T L, Kline M A. Establishing An Eddy Covariance Mesonet in Coastal South Carolina. Poster presented at: Ameriflux 2020; 2020 October 8. DOI: 10.13140/RG.2.2.13901.26086 </a></li>
+<li><a href="https://www.researchgate.net/publication/349702383_An_Eddy_Covariance_Mesonet_Measuring_Coastal_Carbon_Fluxes_in_South_Carolina" target="_blank"> Forsythe J D, O'Halloran T L, Williams T, Kaminski R, Kline M A. An Eddy Covariance Mesonet Measuring Coastal Carbon Fluxes in South Carolina. Poster presented at: 7th North American Carbon Program Open Science Meeting; 2021 March. DOI: 10.13140/RG.2.2.21100.28804 </a></li>
+<li><a href="https://www.researchgate.net/publication/344619699_Establishing_An_Eddy_Covariance_Mesonet_in_Coastal_South_Carolina" target="_blank"> Forsythe J D, O'Halloran T L, Kline M A. Establishing An Eddy Covariance Mesonet in Coastal South Carolina. Poster presented at: Ameriflux 2020; 2020 October 8. DOI: 10.13140/RG.2.2.13901.26086 </a></li>
 </ul> 
