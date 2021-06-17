@@ -9,7 +9,7 @@ date: 2020-06-09
 
 
 As a data scientist I tend to write simple code, using only the minimal amount of external
-packages required to complete the task. Most of my software is used internally in the labs I work for
+packages (if any) required to complete the task. Most of my software is used internally in the labs I work for
 and is tailored for specific uses or data-sets, however I am a strong advocate for open source development.
 
 My software is primarily written in R or Python, though occasional bash scripts and GNU Octave

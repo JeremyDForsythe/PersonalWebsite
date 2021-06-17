@@ -32,35 +32,18 @@ running, and learning new programming skills.
 
 <p style="margin-bottom:1cm;"></p>
 
-<p align="center">
-<img src="Ameriflux.png", width =250>
+<p align="center" style="margin-top:1.25cm;">
+<img src="DiffuseLeafPlots.png", width =250>
 </p>
 
-* <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>
-
-  * Our lab is installing and activating a new network of environmental sensor towers
-  (Eddy Covariance Flux) that will measure the greenhouse gases, water, and heat exchanged between
-  the ecosystems of coastal South Carolina and the atmosphere above.
-  * One of my jobs is to develop a workflow to take our high frequency (up to 10x per second)
-  data from the sensors through quality checking and processing to create a cleaned dataset
-  accessible and usable by anyone interested.
-  * We have 4 towers currently built, operating, and registered with the Ameriflux network.
-  For more information please visit [the O'Halloran Coastal Flux Lab's website](https://sites.google.com/g.clemson.edu/ohalloran/tower-sites).
-
-  <p align="center" style="margin-top:1.25cm;">
-  <img src="forest.png", width =250>
-  </p>
-
-* <span style="text-decoration:underline"> Environmental Drivers of Carbon Capture By Plants:</span>
-  * Atmospheric carbon dioxide (CO2) levels are growing at unprecedented rates with
-  only two known possible sinks that work fast enough to help offset the sudden rise
-  to over 410 ppm (parts per million).
-  * When the Oceans, one of these carbon sinks,
-  absorb CO2 there are strong negative impacts to the sea's chemistry and life.
-  However, terrestrial plants can capture CO2 while providing economic, ecological,
-  and cultural benefits to society.
-  * My research uses modern Eddy Covariance Flux technology to
-  quantify how terrestrial ecosystem productivity (carbon sequestration) is affected by environmental change.
+* <span style="text-decoration:underline"> Influence of Diffuse Light on Carbon Capture By Plants:</span>
+  * Atmospheric carbon dioxide (CO2) levels are growing at unprecedented rates to over 410 ppm (parts per million).
+  * Trees effectively capture and store carbon in woody tissue through photosynthesis, leading them to be named the [leading natural climate solution to combat climate change](https://www.pnas.org/content/114/44/11645).
+  * Incoming solar energy is one of the primary drivers of photosynthesis, but more energy does not always translate to more photosynthesis.
+  * Under clear sky conditions top canopy leaves are often light saturated to the point of physiological stress while simultaneously the shaded leaves are receiving suboptimal levels of light because they are not directly in the beam. 
+  * Conversely, under moderately cloudy conditions or when light scattering aerosols are present the incoming light is more evenly dispersed, reducing the strain on the top canopy leaves and allowing energy to penetrate deeper into the layers of the foliage, resulting in an overall significant increase photosynthesis.
+  * I study how this "diffuse fertilization effect" affects forests and interacts with other drivers of photosynthesis. 
+  * Figure reprinted from [Knohl & Baldocchi. 2008. Effects of diffuse radiation on canopy gas exchange processes in a forest ecosystem. Journal of Geophysical Research: Biogeosciences 113:1–17](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JG000663) shows leaf photosynthesis and respiration through canopy layers for different diffuse fractions.
 
 <p align="center" style="margin-top:1.25cm;">
 <img src="Forecast.png", width =225>
@@ -70,6 +53,31 @@ running, and learning new programming skills.
   * Ecology as a science has primarily been focused on describing events that have already past.
   We are realizing more and more that ecosystems do not always respond to environmental change
   as they have previously, especially under a changing climate.
-  * In my research I am developing models that combine statistics, data science, and ecological principles to make predictions about how ecosystem services to society may change in the future.
+  * In my research I am combining Bayesian statistics, data science, and ecological principles to make near-term carbon forecasts for forested ecosystems.
+
+
+<p align="center" style="margin-top:1.25cm;">
+<img src="sentinel_2.jpg", width =225>
+</p>
+
+* <span style="text-decoration:underline"> Optimizing Remote Sensing Light Use Efficiency Models:</span>
+  * Satellite-born spectral vegetation indices allow us to continually quantify properties of the land below across space and time, including the photosynthetic capacity of plant life. 
+  * Using a simple model, GPP = APAR & &epsilon; (Gross Primary Productivity = Amount of absorbed sunlight * light use efficiency), we can estimate carbon sequestration anywhere and everywhere across the globe.
+  * I am developing novel adapatations of this methodolgy specifically optimized for ecosystems in the Southeastern United States,  like Southern pine forests.
+
+<p align="center">
+<img src="Ameriflux.png", width =250>
+</p>
+
+* <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>
+
+  * Our lab has installed and activated a new network of environmental sensor towers
+  (Eddy Covariance Flux) that measure the greenhouse gases, water, and heat exchanged between
+  the ecosystems of coastal South Carolina and the atmosphere above.
+  * I developed a workflow to take our high frequency (up to 10x per second)
+  data from the sensors through quality checking and processing to create a cleaned dataset
+  accessible and usable by anyone interested.
+  * We have 4 towers currently built, operating, and registered with the Ameriflux network.
+  For more information please visit [the O'Halloran Coastal Flux Lab's website](https://sites.google.com/g.clemson.edu/ohalloran/tower-sites) or read our publication: Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1–20.
 
 <p align="center" style="margin-top:1.25cm;"><i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i></p>

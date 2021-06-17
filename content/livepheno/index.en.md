@@ -1,5 +1,5 @@
 ---
-title: "Live Phenocam Shots From Our Sensor Towers"
+title: "Live Phenocam Shots From Our Flux Towers"
 date: 2020-06-07
 ---
 

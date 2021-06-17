@@ -32,16 +32,15 @@ offer some foundational information about climate science, and introduce our edd
 Many elementary school teachers have a lesson about breathing, teaching children
 that when we breathe we are taking in oxygen and releasing carbon dioxide. To reassure
 any students (read: 3rd grade me) thinking that the supply of oxygen may be running
-low given how long humans had been around, teachers talk abut the balance between
+low given how long humans had been around, teachers talk about the balance between
 the oxygen that we breathe and the oxygen produced by plants. It is a back and forth, we need oxygen
 and give off the by-product carbon dioxide, while plants need carbon dioxide and release oxygen.
 
 All of this is correct and when I teach the plant life unit in General Biology I start off telling this story
-to the first year freshmen. Then I follow up with the question, do plants undergo aerobic respiration?
-Typically the response is mixed with at least a few uneasy facial expressions in the room. For
-some students, particularly those not majoring in the sciences, the balancing act of
+to the first year freshmen. Then I follow up with the question, do plants also release CO2? Do they undergo aerobic respiration?
+Typically the response is mixed because for some the balancing act of
 oxygen and carbon dioxide by plants and animals is as far as they have ever thought of it.
-Furthermore, we make associations based on what is familiar. The word respiration is often used
+We also tend to make associations based on what is familiar. The word respiration is often used
 to define the work of the human respiratory system, the transport of oxygen between cells and the environment by our lungs.
 
 Plants do undergo aerobic respiration, as a matter of fact all plants and animals use the process of respiration to convert chemical energy (like sugar) to a form of energy able to be used by our cells (ATP, Adenosine triphosphate). Plants are autotrophs of course, and create their own chemical energy through photosynthesis, while heterotrophs like us need to eat food. So while plants do not have lungs or gills, we can think of them as breathing because they are constantly exchanging oxygen (via photosynthesis) and carbon dioxide (via aerobic respiration) with the environment around them.
