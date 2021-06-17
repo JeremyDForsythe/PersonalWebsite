@@ -19,8 +19,10 @@ running, and learning new programming skills.
 <p style="margin-bottom:1cm;"></p>
 
 <p align="center">
-<img src="cap.png", width =175>
+<img src="cap.png", width =225>
 </p>
+
+<p style="margin-bottom:1cm;"></p>
 
 * Ph.D. Student Forestry & Environmental Conservation (Jan.2019-present), Clemson University
 * M.A. Ecology & Evolutionary Biology (August 2018), University of Kansas
@@ -46,7 +48,7 @@ running, and learning new programming skills.
   * Figure reprinted from [Knohl & Baldocchi. 2008. Effects of diffuse radiation on canopy gas exchange processes in a forest ecosystem. Journal of Geophysical Research: Biogeosciences 113:1–17](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JG000663) shows leaf photosynthesis and respiration through canopy layers for different diffuse fractions.
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="Forecast.png", width =225>
+<img src="Forecast.png", width =300>
 </p>
 
 * <span style="text-decoration:underline"> Ecological Forecasting:</span>
@@ -57,7 +59,7 @@ running, and learning new programming skills.
 
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="sentinel_2.jpg", width =225>
+<img src="sentinel_2.jpg", width =300>
 </p>
 
 * <span style="text-decoration:underline"> Optimizing Remote Sensing Light Use Efficiency Models:</span>
@@ -65,8 +67,8 @@ running, and learning new programming skills.
   * Using a simple model, GPP = APAR & &epsilon; (Gross Primary Productivity = Amount of absorbed sunlight * light use efficiency), we can estimate carbon sequestration anywhere and everywhere across the globe.
   * I am developing novel adapatations of this methodolgy specifically optimized for ecosystems in the Southeastern United States,  like Southern pine forests.
 
-<p align="center">
-<img src="Ameriflux.png", width =250>
+<p align="center" style="margin-top:1.25cm;">
+<img src="Ameriflux.png", width =275>
 </p>
 
 * <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>
