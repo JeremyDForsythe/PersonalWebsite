@@ -8,11 +8,11 @@ author: "Jeremy"
 authorLink: "https://jeremyforsythe.dev"
 description: ""
 resources:
-- name: "FrontPageDataPaper"
+- name: "featured-image"
   src: "FrontPage.png"
 
 tags: ["Publication", "Blog", "FluxTower", "Ameriflux", "Ecology"]
-categories: ["Science"]
+categories: ["Publications"]
 lightgallery: true
 ---
 
@@ -29,7 +29,7 @@ My publication in MDPI data outlines the O'Halloran lab's new eddy covariance me
 <li> Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1–20.</li>
 </ul> 
 
-### Absract
+### Abstract
 
 Coastal ecosystems are vulnerable to climate change and have been identified as sources of uncertainty in the global carbon budget. Here we introduce a recently established mesonet of eddy covariance towers in South Carolina and describe the sensor arrays and data workflow used to produce three site-years of flux observations in coastal ecosystems. The tower sites represent tidal salt marsh (US-HB1), mature longleaf pine forest (US-HB2), and longleaf pine restoration (replanted clearcut; US-HB3). Coastal ecosystems remain less represented in climate studies despite their potential to sequester large amounts of carbon. Our goal in publishing this open access dataset is to contribute observations in understudied coastal ecosystems to facilitate synthesis and modeling analyses that advance carbon cycle science.
 
