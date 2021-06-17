@@ -33,7 +33,7 @@ running, and learning new programming skills.
 <p style="margin-bottom:1cm;"></p>
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="DiffuseLeafPlots.png", width =250>
+<img src="DiffuseLeafPlots.png", width =500>
 </p>
 
 * <span style="text-decoration:underline"> Influence of Diffuse Light on Carbon Capture By Plants:</span>
