@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "New Publication : An Eddy Covariance Mesonet for Measuring Greenhouse Gas Fluxes in Coastal South Carolina"
+title: "New Publication : A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere."
 date: 2022-03-06
 lastmod: 2022-03-06
 draft: false

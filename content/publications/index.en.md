@@ -10,6 +10,7 @@ date: 2021-03-11
 ### Publications
 
 <ul>
+<li>Ahlswede, B. J., O'Halloran, T. L., Forsythe, J. D., & Thomas, R. Q. (2021). <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12897" target="_blank"> A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.</a> GCB Bioenergy, 14, 24– 36.</li>
 <li> Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1–20.</li>
 </ul> 
 
