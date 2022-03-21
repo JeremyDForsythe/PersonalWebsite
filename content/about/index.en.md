@@ -7,10 +7,12 @@ date: 2020-06-07
 <img src="Tower_MeBW.jpg" width="500" alt="Climbing Out Tall Tower">
 </p>
 
-My name is Jeremy Forsythe and I am a Clemson University PhD student interested in
-using computer programming and quantitative data analyses to study plant ecology
+My name is Jeremy Forsythe and I am a PhD candidate at Clemson University interested in
+using computer programming, remote sensing, and quantitative data analyses to study plant ecology
 and climate science. In my spare time I enjoy alternative music, vegan cooking,
 running, and learning new programming skills.
+
+A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JForsytheCV.pdf)
 
 <p style="margin-bottom:2cm;"></p>
 
