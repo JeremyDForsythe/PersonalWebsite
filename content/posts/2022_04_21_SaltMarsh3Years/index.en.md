@@ -25,7 +25,7 @@ Also, feel free to [contact us directly](mailto:tohallo@clemson.edu) if your res
 We do ask that you please cite this paper as a description of this dataset if you use data from US-HB1 in your final product:
 
 <ul>
-<li> Forsythe, J. D., O'Halloran, T. L., & Kline, M. A. (2020). <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12897" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal south carolina.</a> Data, 5(4), 1–20.</li>
+<li> Forsythe, J. D., O'Halloran, T. L., & Kline, M. A. (2020). <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal south carolina.</a> Data, 5(4), 1–20.</li>
 </ul> 
 
 <p align="center" style="margin-top:1.25cm;"><i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i></p>
