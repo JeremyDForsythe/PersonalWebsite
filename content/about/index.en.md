@@ -1,16 +1,15 @@
 ---
 title: "About Me"
-date: 2020-06-07
+date: 2022-07-13
 ---
 
 <p align="center">
 <img src="Tower_MeBW.jpg" width="500" alt="Climbing Out Tall Tower">
 </p>
 
-My name is Jeremy Forsythe and I am a PhD candidate at Clemson University interested in
-using computer programming, remote sensing, and quantitative data analyses to study plant ecology
-and climate science. In my spare time I enjoy alternative music, vegan cooking,
-running, and learning new programming skills.
+My name is Jeremy Forsythe and I am a PhD candidate at Clemson University. As an educator I am committed to making undergraduate ecology courses and research experiences more accessible, equitable, and inclusive to historically marginalized students across intersections of race, gender, and sexuality. As an ecologist I use computer programming, satellite remote sensing, and quantitative data analyses to study plant ecology and climate science. In my spare time I enjoy listening & playing music, vegan cooking, running, and learning new programming skills.
+
+I am a member of the the following professional organizations: [The Ecological Society of America (ESA)](https://www.esa.org/), [The Society for the Advancement of Biology Education Research(SABER)](https://saberbio.wildapricot.org/), [FLUXNET Early Career Scientist Network (ECN)](https://fluxnet.org/community/ecn-early-career-scientist-network/), [American Association for the Advancement of Science](https://www.aaas.org/), [Ameriflux](https://ameriflux.lbl.gov/), and [The Honor Society of Phi Kappa Phi](https://www.phikappaphi.org/).
 
 A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JForsytheCV.pdf)
 
