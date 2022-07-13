@@ -25,7 +25,7 @@ We used a low cost hobby drone to produce high resolution aerial photographs of 
 ### Reference
 
 <ul>
-<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="http://mcfns.net/index.php/Journal/article/view/14.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry \& Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.
+<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="http://mcfns.net/index.php/Journal/article/view/14.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry & Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.
 </ul> 
 
 <p align="center" style="margin-top:1.25cm;"><i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i></p>
