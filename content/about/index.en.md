@@ -7,7 +7,13 @@ date: 2022-07-13
 <img src="Tower_MeBW.jpg" width="500" alt="Climbing Out Tall Tower">
 </p>
 
-My name is Jeremy Forsythe and I am a PhD candidate at Clemson University. As an educator I am committed to making undergraduate ecology courses and research experiences more accessible, equitable, and inclusive to historically marginalized students across intersections of race, gender, and sexuality. As an ecologist I use computer programming, satellite remote sensing, and quantitative data analyses to study plant ecology and climate science. In my spare time I enjoy listening & playing music, vegan cooking, running, and learning new programming skills.
+My name is Jeremy Forsythe and I am a PhD candidate at Clemson University. 
+
+As an educator I am committed to designing and implementing courses and research experiences that are more accessible, equitable, and inclusive to historically marginalized students across intersections of race, gender, socioeconomic levels, and sexuality. I believe that the foundations of compassion and support are critical to building a teaching environment that holds students to high academic standards.
+
+As an ecologist I am curious about the ecological mechanisms behind community assembly, disturbance recovery, ecosystem functioning, and the patterns of biodiversity. I recently have focused on the intersection between these mechanisms and land atmosphere interactions to answer questions about the sensitivity of ecosystem productivity (carbon sequestration) to environmental disturbance (e.g. fire, timber management, extreme weather events). The results will contribute to our overall understanding of the land carbon sink, reducing uncertainty in future climate predictions and contributing to an assessment of how ecosystems might be managed as "natural climate solutions". My approach combines field based measurements of carbon stocks, ecosystem greenhouse gas exchange measured via state-of-the-art technology like high frequency sonic anemometers and infrared gas analyzers (i.e. eddy covariance), satellite remote sensing, and advanced quantitative and statistical methods to answer these questions.
+
+In my spare time I enjoy listening & playing music, vegan cooking, running, and learning new programming skills.
 
 I am a member of the the following professional organizations: [The Ecological Society of America (ESA)](https://www.esa.org/), [The Society for the Advancement of Biology Education Research(SABER)](https://saberbio.wildapricot.org/), [FLUXNET Early Career Scientist Network (ECN)](https://fluxnet.org/community/ecn-early-career-scientist-network/), [American Association for the Advancement of Science](https://www.aaas.org/), [Ameriflux](https://ameriflux.lbl.gov/), and [The Honor Society of Phi Kappa Phi](https://www.phikappaphi.org/).
 
@@ -64,9 +70,9 @@ A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JF
 </p>
 
 * <span style="text-decoration:underline"> Optimizing Remote Sensing Light Use Efficiency Models:</span>
-  * Satellite-born spectral vegetation indices allow us to continually quantify properties of the land below across space and time, including the photosynthetic capacity of plant life. 
+  * Satellite-born spectral vegetation indices allow us to continually quantify properties of the land below across space and time, including the photosynthetic capacity of plant life, by measuring the reflectance of key wavelengths of light.
   * Using a simple model, GPP = APAR & &epsilon; (Gross Primary Productivity = Amount of absorbed sunlight * light use efficiency), we can estimate carbon sequestration anywhere and everywhere across the globe.
-  * I am developing novel adapatations of this methodolgy specifically optimized for ecosystems in the Southeastern United States,  like Southern pine forests.
+  * I am developing novel adaptations of this methodology specifically optimized to measure the potential carbon sink of ecosystems in the Southeastern United States, like Southern pine forests.
 
 <p align="center" style="margin-top:1.25cm;">
 <img src="Ameriflux.png", width =275>
