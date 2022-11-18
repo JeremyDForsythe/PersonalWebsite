@@ -37,7 +37,7 @@ A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JF
 
 <p style="margin-bottom:2cm;"></p>
 
-### Research Projects
+### Research Projects Include:
 
 <p style="margin-bottom:1cm;"></p>
 
