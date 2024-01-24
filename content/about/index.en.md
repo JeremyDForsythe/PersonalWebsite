@@ -7,11 +7,11 @@ date: 2022-07-13
 <img src="Tower_MeBW.jpg" width="500" alt="Climbing Out Tall Tower">
 </p>
 
-My name is Jeremy Forsythe and I am a PhD candidate at Clemson University. 
+My name is Jeremy Forsythe and I am a Research Associate at Northern Arizona University working on NASA's Arctic-Boreal Vulnerability Experiment (ABoVE).
+
+As an ecologist I am curious about the ecological mechanisms behind community assembly, disturbance recovery, ecosystem functioning, and the patterns of biodiversity. I recently have focused on the intersection between these mechanisms and land atmosphere interactions to answer questions about the sensitivity of ecosystem productivity (carbon sequestration) to environmental disturbance (e.g. fire, land management, extreme weather events). My approach combines field based measurements of plant demographics & carbon stocks, ecosystem greenhouse gas exchange measured via state-of-the-art technology (i.e. eddy covariance), satellite remote sensing, and advanced quantitative & statistical methods to holistically quantify the effect of ecological mechanisms on greenhouse gas cycling.
 
 As an educator I am committed to designing and implementing courses and research experiences that are more accessible, equitable, and inclusive to historically marginalized students across intersections of race, gender, socioeconomic levels, and sexuality. I believe that the foundations of compassion and support are critical to building a teaching environment that holds students to high academic standards.
-
-As an ecologist I am curious about the ecological mechanisms behind community assembly, disturbance recovery, ecosystem functioning, and the patterns of biodiversity. I recently have focused on the intersection between these mechanisms and land atmosphere interactions to answer questions about the sensitivity of ecosystem productivity (carbon sequestration) to environmental disturbance (e.g. fire, land management, extreme weather events). The results will contribute to our overall understanding of the land carbon sink, reducing uncertainty in future climate predictions and contributing to an assessment of how ecosystems might be managed as "natural climate solutions". My approach combines field based measurements of plant demographics & carbon stocks, ecosystem greenhouse gas exchange measured via state-of-the-art technology (i.e. eddy covariance), satellite remote sensing, and advanced quantitative & statistical methods to holistically quantify the effect of ecological mechanisms on greenhouse gas cycling.
 
 In my spare time I enjoy listening to & playing music, vegan cooking, running, hiking, and learning new programming skills.
 
@@ -40,6 +40,13 @@ A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JF
 ### Research Projects Include:
 
 <p style="margin-bottom:1cm;"></p>
+
+<p align="center" style="margin-top:1.25cm;">
+<img src="ABOVE.png", width =500>
+</p>
+
+* <span style="text-decoration:underline"> Fire, Ecosystem, and Forest Community Change in the Artic/Boreal Region:</span>
+  * More To Come Soon!
 
 <p align="center" style="margin-top:1.25cm;">
 <img src="DiffuseLeafPlots.png", width =500>
