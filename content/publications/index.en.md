@@ -26,7 +26,7 @@ date: 2021-03-11
 ### Posters & Presentations
 
 <ul>
-<li> Forsythe J, Potter S, Rogers B, Berner L, Hansen W, Goetz S, Johnstone J, Mack M, Walker X. <a href="https://doi.org/10.13140/RG.2.2.36446.50242 target="_blank"> Quantifying The Controls On Boreal Forest Reburning With Interpretable Machine Learning.</a> Talk at: American Geophysical Union (AGU) 2025. </li>
+<li> Forsythe J, Potter S, Rogers B, Berner L, Hansen W, Goetz S, Johnstone J, Mack M, Walker X. <a href="https://doi.org/10.13140/RG.2.2.36446.50242" target=_blank"> Quantifying The Controls On Boreal Forest Reburning With Interpretable Machine Learning.</a> Talk at: American Geophysical Union (AGU) 2025. </li>
 <li> Forsythe J, Potter S, Rogers B, Berner L, Goetz S, Johnstone J, Mack M, Walker X. Legacy of Wildfire in Boreal Forests: Characterizing Fire-on-Fire Interactions with Satellite Remote Sensing.</a> Talk at: Bonanaza Creek LTER All Hands Meeting - June 2025. </li>
 <li> Forsythe J, Rogers B, Berner L, Goetz S, Johnstone J, Mack M, Walker X. Drivers and Impacts of Reburning in Boreal Forest Ecosystems (DIRE).</a> Talk at: NASA ABoVE Team Meeting - May 2025. </li>
 <li> Maloney D, Hoy E, Larson E, Montesano P, Wang J, Liang W, Bauck K, Walker X, Forsythe J. A Comparative Analysis of Available Arctic and Boreal Biomass Datasets. Poster presented at: NASA ABoVE Team Meeting - May 2025. </li>
