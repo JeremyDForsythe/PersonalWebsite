@@ -9,19 +9,36 @@ date: 2021-03-11
 
 ### Publications
 
+<h4>Peer-reviewed</h4>
 <ul>
 <li>Zhu, Q., Cheb, J., Bourque, CP.A., Sonnentag O., Montagnani L., O'Halloran  T.L., Scott R.L., Forsythe, J.D., Song, B., Zou, H., Duan, M. (2024). <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JG007848" target="_blank"> Albedo-induced global warming potential following disturbances in global temperate and boreal forests.</a> Journal of Geophysical Research: Biogeosciences, 129.</li>
-<li>Maricar Aguilos, Ge Sun, Ning Liu, Yulong Zhang, Gregory Starr, Andrew Christopher Oishi, Thomas L O'Halloran, Jeremy Forsythe, Jingfeng Wang, Modi Zhu, Devendra Amatya, Benju Baniya, Steve McNulty, Asko Noormets, John King. <a href="https://doi.org/10.1016/j.agrformet.2024.109960" target="_blank"> Energy availability and leaf area dominate control of ecosystem evapotranspiration in the southeastern U.S.</a>, Agricultural and Forest Meteorology, Volume 349, 2024,109960, ISSN 0168-1923.</li>
-<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="http://mcfns.net/index.php/Journal/article/view/14.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry & Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.</li>
-<li>Ahlswede, B. J., O'Halloran, T. L., Forsythe, J. D., & Thomas, R. Q. 2021. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12897" target="_blank"> A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.</a> GCB Bioenergy, 14, 24-36.</li>
-<li>Williams, T.M., T.L. O'Halloran, B. Song, J.D. Forsythe, and B.J. Williams. 2021. <a href="https://www.jeremyforsythe.dev/publications/local/SOFOR_Proceedings_FINAL_2021.pdf" target="_blank"> Sources of error from dense understory vegetation in Coastal Plain forest hydrologic analyses using LiDAR DEMs.</a> In Proceedings 13th Southern Forestry and Natural Resource Management GIS Conference. Athens, GA. pp. 41.</li>
-<li>Williams, T.M., T.L. O'Halloran, B. Song, J.D. Forsythe, and B.J. Williams. 2020. <a href="https://www.jeremyforsythe.dev/publications/local/gtr_srs264.pdf" target="_blank">  Evaluating high water table hydrology and eddy covariance measurements of evapotranspiration at a newly instrumented watershed in coastal South Carolina.</a> In Proceedings 7th Interagency Conference on Research in the Watersheds. Tifton, GA: USDA-Agricultural Research Service. pp. 47.
-<li> Forsythe, J. D., T. L. O'halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1-20.</li>
-</ul> 
 
-<p align="center" style="margin-top:1.25cm;">
-<img src="Chart.png", width =200>
-</p>
+<li>Maricar Aguilos, Ge Sun, Ning Liu, Yulong Zhang, Gregory Starr, Andrew Christopher Oishi, Thomas L O'Halloran, Jeremy Forsythe, Jingfeng Wang, Modi Zhu, Devendra Amatya, Benju Baniya, Steve McNulty, Asko Noormets, John King. <a href="https://doi.org/10.1016/j.agrformet.2024.109960" target="_blank"> Energy availability and leaf area dominate control of ecosystem evapotranspiration in the southeastern U.S.</a>, Agricultural and Forest Meteorology, Volume 349, 2024,109960, ISSN 0168-1923.</li>
+
+<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="http://mcfns.net/index.php/Journal/article/view/14.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry & Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.</li>
+
+<li>Ahlswede, B. J., O'Halloran, T. L., Forsythe, J. D., & Thomas, R. Q. 2021. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12897" target="_blank"> A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.</a> GCB Bioenergy, 14, 24-36.</li>
+
+<li>Williams, T.M., T.L. O'Halloran, B. Song, J.D. Forsythe, and B.J. Williams. 2021. <a href="https://www.jeremyforsythe.dev/publications/local/SOFOR_Proceedings_FINAL_2021.pdf" target="_blank"> Sources of error from dense understory vegetation in Coastal Plain forest hydrologic analyses using LiDAR DEMs.</a> In Proceedings 13th Southern Forestry and Natural Resource Management GIS Conference. Athens, GA. pp. 41.</li>
+
+<li>Williams, T.M., T.L. O'Halloran, B. Song, J.D. Forsythe, and B.J. Williams. 2020. <a href="https://www.jeremyforsythe.dev/publications/local/gtr_srs264.pdf" target="_blank">  Evaluating high water table hydrology and eddy covariance measurements of evapotranspiration at a newly instrumented watershed in coastal South Carolina.</a> In Proceedings 7th Interagency Conference on Research in the Watersheds. Tifton, GA: USDA-Agricultural Research Service. pp. 47.</li>
+
+<li> Forsythe, J. D., T. L. O'halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1-20.</li>
+</ul>
+
+<h4>In Review</h4>
+<ul>
+<li>Forsythe, J.D., Mack, M., Berner, L., Goetz, S., Hansen, W., Hayes, K., Johnstone, J., Potter, S., Rogers, B., Talucci, A., Wang, J., & Walker, X. Short-Interval Wildfires Are Smaller, Less Severe, and Require More Extreme Weather than Long-Interval Fires in Boreal North America. (Under review at Fire Ecology)</li>
+
+<li>Forsythe, J.D. & O'Halloran, T.L. Light quality controls daily LUE in Southern pine forests: an interpretable machine learning approach. (Under review at JGR Biogeosciences)</li>
+</ul>
+
+<h4>In Preparation</h4>
+<ul>
+<li>Forsythe, J.D., O'Halloran, T.L., & Hawman, P. Satellite data infused light use efficiency models reveal importance of diffuse light fertilization in U.S. Southern pine ecosystems. (In preparation for Agricultural and Forest Meteorology)</li>
+
+<li>Forsythe, J.D., O'Halloran, T.L., Thomas, R.Q., Fisher, J.B., & Duberstein, J. Diffuse light increases evapotranspiration and water use efficiency in Southern pine. (In preparation for Ecohydrology)</li>
+</ul>
 
 ### Posters & Presentations
 
