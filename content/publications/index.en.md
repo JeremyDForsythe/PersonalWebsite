@@ -43,7 +43,8 @@ date: 2021-03-11
 ### Posters & Presentations
 
 <ul>
-<li> Forsythe J, Potter S, Rogers B, Berner L, Hansen W, Goetz S, Johnstone J, Mack M, Walker X. <a href="https://doi.org/10.13140/RG.2.2.36446.50242" target=_blank"> Quantifying The Controls On Boreal Forest Reburning With Interpretable Machine Learning.</a> Talk at: American Geophysical Union (AGU) 2025. </li>
+<li> Goldsmith GR, Verbeke M, Forsythe J, Fisher J. <a href="https://doi.org/10.5194/egusphere-egu26-14351" target="_blank"> A distributed model for undergraduate education in environmental remote sensing: increased student interest in science and sense of science identity and belonging.</a> Poster presented at: European Geosciences Union (EGU) General Assembly 2026. </li>
+<li> Forsythe J, Potter S, Rogers B, Berner L, Hansen W, Goetz S, Johnstone J, Mack M, Walker X. <a href="https://doi.org/10.13140/RG.2.2.36446.50242" target="_blank"> Quantifying The Controls On Boreal Forest Reburning With Interpretable Machine Learning.</a> Talk at: American Geophysical Union (AGU) 2025. </li>
 <li> Hall J, Hayes K, Asena Q, Forsythe J, Frumhoff P, Hu K-T, Mathes K, Murphy L, Rogers B, Talucci A, Wang J, Hansen W. Predicting forest burn risk from 2026 to 2040 in interior Alaska. Talk at: American Geophysical Union (AGU) 2025. </li>
 <li> Liang W, Bauck K, Maloney D, Embury Hoy E, Montesano P, Wang JA, Lara M, Yang D, Forsythe J, Berner L, Walker X, Duncanson L. Meta-analysis of North American Arctic and Boreal Aboveground Carbon Maps to Provide Guidance for User Communities. Talk at: American Geophysical Union (AGU) 2025. </li>
 <li> Forsythe J, Potter S, Rogers B, Berner L, Goetz S, Johnstone J, Mack M, Walker X. Legacy of Wildfire in Boreal Forests: Characterizing Fire-on-Fire Interactions with Satellite Remote Sensing.</a> Talk at: Bonanaza Creek LTER All Hands Meeting - June 2025. </li>
