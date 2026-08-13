@@ -1,23 +1,28 @@
 ---
 title: "About Me"
 date: 2022-07-13
+lastmod: 2026-08-13
 ---
 
 <p align="center">
-<img src="Tower_MeBW.jpg" width="500" alt="Climbing Out Tall Tower">
+<img src="Tower_MeBW.jpg" width="500" alt="Jeremy Forsythe climbing an eddy covariance tower">
 </p>
 
-My name is Jeremy Forsythe and I am a Research Associate at Northern Arizona University working on NASA's Arctic-Boreal Vulnerability Experiment (ABoVE).
+My name is **Jeremy Forsythe**. I am an ecologist and remote-sensing scientist working as a Research Associate at Northern Arizona University with NASA's Arctic-Boreal Vulnerability Experiment (ABoVE) and the Bonanza Creek Long-Term Ecological Research program. I completed my Ph.D. in Forestry & Environmental Conservation at Clemson University in May 2026.
 
-As an ecologist I am curious about the ecological mechanisms behind community assembly, disturbance recovery, ecosystem functioning, and the patterns of biodiversity. I recently have focused on the intersection between these mechanisms and land atmosphere interactions to answer questions about the sensitivity of ecosystem productivity (carbon sequestration) to environmental disturbance (e.g. fire, land management, extreme weather events). My approach combines field based measurements of plant demographics & carbon stocks, ecosystem greenhouse gas exchange measured via state-of-the-art technology (i.e. eddy covariance), satellite remote sensing, and advanced quantitative & statistical methods to holistically quantify the effect of ecological mechanisms on greenhouse gas cycling.
+I study how disturbance, climate, and land management shape plant communities, ecosystem functioning, and recovery across space and time. My research integrates field observations, eddy-covariance measurements of land-atmosphere exchange, satellite remote sensing, and statistical and machine-learning models. I am most energized by collaborative work that connects ecological mechanisms with actionable questions about wildfire, restoration, carbon and water cycling, and ecosystem resilience.
 
-As an educator I am committed to designing and implementing courses and research experiences that are more accessible, equitable, and inclusive to historically marginalized students across intersections of race, gender, socioeconomic levels, and sexuality. I believe that the foundations of compassion and support are critical to building a teaching environment that holds students to high academic standards.
+In my current position, I serve as a bridge between field ecology and remote-sensing teams studying boreal wildfire and reburning. I combine Landsat observations, climate data, historical fire records, and field knowledge to examine fire-climate-vegetation interactions and support the design and interpretation of field studies across Alaska and boreal North America.
 
-In my spare time I enjoy listening to & playing music, vegan cooking, running, hiking, and learning new programming skills.
+My doctoral research focused on how light quality and canopy structure influence carbon uptake and water use in Southern pine forests. I helped build and maintain a four-site AmeriFlux eddy-covariance network, developed reproducible data-processing workflows, and integrated tower measurements with satellite observations and interpretable machine-learning methods.
 
-I am a member of the the following professional organizations: [The Ecological Society of America (ESA)](https://www.esa.org/), [The Society for the Advancement of Biology Education Research(SABER)](https://saberbio.wildapricot.org/), [FLUXNET Early Career Scientist Network (ECN)](https://fluxnet.org/community/ecn-early-career-scientist-network/), [American Association for the Advancement of Science](https://www.aaas.org/), [Ameriflux](https://ameriflux.lbl.gov/), and [The Honor Society of Phi Kappa Phi](https://www.phikappaphi.org/).
+Living and working in Austin, Los Angeles, and Flagstaff deepened my interest in dryland ecosystems. I am increasingly focused on how water limitation, disturbance, land use, soil properties, and restoration shape vegetation establishment and long-term resilience. I am especially excited by NASA's [Adaptation and Response in Drylands (ARID) initiative](https://doi.org/10.3334/ORNLDAAC/2408) and its coordinated use of field, research-network, airborne, satellite, and modeling approaches.
 
-A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JForsytheCV.pdf)
+As an educator and mentor, I work to make ecology, remote sensing, and quantitative methods more accessible. I have developed [open-source NASA ECOSTRESS curriculum](https://www.observingearthfromabove.com/), taught remote sensing and ecological data science, mentored undergraduate researchers, and organized inclusive coding and writing communities (SnackOverflow). I believe compassion, clarity, and support are essential to a learning environment that also holds students to high academic standards.
+
+In my spare time, I enjoy listening to and playing music, cooking, running, hiking, and learning anything new.
+
+A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JForsytheCV.pdf).
 
 <p style="margin-bottom:2cm;"></p>
 
@@ -26,74 +31,61 @@ A copy of my CV can be downloaded [here](https://www.jeremyforsythe.dev/about/JF
 <p style="margin-bottom:1cm;"></p>
 
 <p align="center">
-<img src="cap.png", width =225>
+<img src="cap.png" width="225" alt="Graduation cap">
 </p>
 
 <p style="margin-bottom:1cm;"></p>
 
-* Ph.D. Student Forestry & Environmental Conservation (Jan.2019-present), Clemson University
-* M.A. Ecology & Evolutionary Biology (August 2018), University of Kansas
-* B.S. Biological Sciences (December 2013), University at Albany
+* **Ph.D., Forestry & Environmental Conservation**, Clemson University, May 2026
+* **M.A., Ecology & Evolutionary Biology**, University of Kansas, August 2018
+* **B.S., Biological Sciences**, University at Albany, December 2013
 
 <p style="margin-bottom:2cm;"></p>
 
-### Research Projects Include:
+### Current and Recent Research
 
 <p style="margin-bottom:1cm;"></p>
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="ABOVE.png", width =500>
+<img src="ABOVE.png" width="500" alt="NASA Arctic-Boreal Vulnerability Experiment">
 </p>
 
-* <span style="text-decoration:underline"> Fire, Ecosystem, and Forest Community Change in the Artic/Boreal Region:</span>
-  * More To Come Soon!
+#### Wildfire, Reburning, and Forest Change in Arctic-Boreal North America
+
+* Map short-interval reburning across boreal North America using Landsat observations and historical fire perimeters.
+* Examine how fire weather, vegetation, and time since a previous burn interact to shape subsequent fire size and severity.
+* Connect remote-sensing analyses with field ecology and management perspectives through collaborations with NASA ABoVE, Bonanza Creek LTER, the Alaska Fire Science Consortium, and the Interagency Arctic Research Policy Committee.
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="DiffuseLeafPlots.png", width =500>
+<img src="DiffuseLeafPlots.png" width="500" alt="Conceptual comparison of direct and diffuse light within a forest canopy">
 </p>
 
-* <span style="text-decoration:underline"> Influence of Diffuse Light on Carbon Capture By Plants:</span>
-  * Atmospheric carbon dioxide (CO2) levels are growing at unprecedented rates to over 410 ppm (parts per million).
-  * Trees effectively capture and store carbon in woody tissue through photosynthesis, leading them to be named the [leading natural climate solution to combat climate change](https://www.pnas.org/content/114/44/11645).
-  * Incoming solar energy is one of the primary drivers of photosynthesis, but more energy does not always translate to more photosynthesis.
-  * Under clear sky conditions top canopy leaves are often light saturated to the point of physiological stress while simultaneously the shaded leaves are receiving suboptimal levels of light because they are not directly in the beam. 
-  * Conversely, under moderately cloudy conditions or when light scattering aerosols are present the incoming light is more evenly dispersed, reducing the strain on the top canopy leaves and allowing energy to penetrate deeper into the layers of the foliage, resulting in an overall significant increase photosynthesis.
-  * I study how this "diffuse fertilization effect" affects forests and interacts with other drivers of photosynthesis. 
-  * Figure reprinted from [Knohl & Baldocchi. 2008. Effects of diffuse radiation on canopy gas exchange processes in a forest ecosystem. Journal of Geophysical Research: Biogeosciences 113:1–17](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JG000663) shows leaf photosynthesis and respiration through canopy layers for different diffuse fractions.
+#### Light Quality, Carbon Uptake, and Water Use
+
+* Examined how direct and diffuse sunlight influence photosynthetic carbon uptake, evapotranspiration, sap flow, and water-use efficiency in Southern pine forests.
+* Used eddy-covariance observations and interpretable machine learning to evaluate the environmental controls on daily light-use efficiency.
+* Studied how canopy light distribution links leaf-scale mechanisms with whole-ecosystem carbon and water exchange.
+* Figure adapted from [Knohl & Baldocchi (2008), *Journal of Geophysical Research: Biogeosciences*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JG000663).
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="Forecast.png", width =300>
+<img src="sentinel_2.jpg" width="300" alt="Sentinel-2 satellite image">
 </p>
 
-* <span style="text-decoration:underline"> Ecological Forecasting:</span>
-  * Ecology as a science has primarily been focused on describing events that have already past.
-  We are realizing more and more that ecosystems do not always respond to environmental change
-  as they have previously, especially under a changing climate.
-  * In my research I am combining Bayesian statistics, data science, and ecological principles to make near-term carbon forecasts for forested ecosystems.
+#### Remote Sensing of Ecosystem Productivity
 
+* Develop satellite-informed light-use-efficiency models that translate site-level flux measurements across space and time.
+* Combine vegetation indices, climate data, and eddy-covariance observations to estimate ecosystem productivity and evaluate environmental controls on carbon uptake.
+* Build reproducible geospatial workflows using Landsat, Sentinel-2, MODIS, ECOSTRESS, Google Earth Engine, Python, R, GDAL, QGIS, and ArcGIS.
 
 <p align="center" style="margin-top:1.25cm;">
-<img src="sentinel_2.jpg", width =300>
+<img src="Ameriflux.png" width="275" alt="AmeriFlux logo">
 </p>
 
-* <span style="text-decoration:underline"> Optimizing Remote Sensing Light Use Efficiency Models:</span>
-  * Satellite-born spectral vegetation indices allow us to continually quantify properties of the land below across space and time, including the photosynthetic capacity of plant life, by measuring the reflectance of key wavelengths of light.
-  * Using a simple model, GPP = APAR & &epsilon; (Gross Primary Productivity = Amount of absorbed sunlight * light use efficiency), we can estimate carbon sequestration anywhere and everywhere across the globe.
-  * I am developing novel adaptations of this methodology specifically optimized to measure the potential carbon sink of ecosystems in the Southeastern United States, like Southern pine forests.
+#### Coastal South Carolina AmeriFlux Mesonet and Open Data Pipeline
 
-<p align="center" style="margin-top:1.25cm;">
-<img src="Ameriflux.png", width =275>
-</p>
-
-* <span style="text-decoration:underline"> Ameriflux Data Pipeline:</span>
-
-  * Our lab has installed and activated a new network of environmental sensor towers
-  (Eddy Covariance Flux) that measure the greenhouse gases, water, and heat exchanged between
-  the ecosystems of coastal South Carolina and the atmosphere above.
-  * I developed a workflow to take our high frequency (up to 10x per second)
-  data from the sensors through quality checking and processing to create a cleaned dataset
-  accessible and usable by anyone interested.
-  * We have 4 towers currently built, operating, and registered with the Ameriflux network.
-  For more information please visit [the O'Halloran Coastal Flux Lab's website](https://sites.google.com/g.clemson.edu/ohalloran/tower-sites) or read our publication: Forsythe, J. D., T. L. O’halloran, and M. A. Kline. 2020. <a href="https://www.mdpi.com/856994" target="_blank"> An eddy covariance mesonet for measuring greenhouse gas fluxes in coastal South Carolina.</a> Data 5:1–20.
+* Helped build and maintain a four-tower eddy-covariance network measuring exchanges of carbon dioxide, water, and energy across forest, agricultural, and wetland ecosystems from 2019 through 2025.
+* Maintained instrumentation, calibration systems, off-grid solar power, telemetry, and remote field infrastructure.
+* Developed workflows that transform high-frequency raw observations into quality-controlled, gap-filled, and openly accessible AmeriFlux data products.
+* Learn more through the [O'Halloran Coastal Flux Lab](https://sites.google.com/g.clemson.edu/ohalloran/tower-sites) or our publication, [*An Eddy Covariance Mesonet for Measuring Greenhouse Gas Fluxes in Coastal South Carolina*](https://www.mdpi.com/856994).
 
 <p align="center" style="margin-top:1.25cm;"><i class='fas fa-tree'></i><i class='fas fa-tree'></i><i class='fas fa-tree'></i></p>
