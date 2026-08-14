@@ -15,7 +15,7 @@ date: 2021-03-11
 
 <li>Maricar Aguilos, Ge Sun, Ning Liu, Yulong Zhang, Gregory Starr, Andrew Christopher Oishi, Thomas L O'Halloran, Jeremy Forsythe, Jingfeng Wang, Modi Zhu, Devendra Amatya, Benju Baniya, Steve McNulty, Asko Noormets, John King. <a href="https://doi.org/10.1016/j.agrformet.2024.109960" target="_blank"> Energy availability and leaf area dominate control of ecosystem evapotranspiration in the southeastern U.S.</a>, Agricultural and Forest Meteorology, Volume 349, 2024,109960, ISSN 0168-1923.</li>
 
-<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="http://mcfns.net/index.php/Journal/article/view/14.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry & Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.</li>
+<li>Williams, T.M., B. Williams, B. Song, T.L. O'Halloran, J.D. Forsythe. 2022. <a href="https://www.mcfns.com/index.php/Journal/article/view/14.3/2022.3" target="_blank"> Mapping natural forest stands with low-cost drones.</a> Mathematical and Computational Forestry & Natural-Resource Sciences: Vol. 14: Iss.1, pp 22-42.</li>
 
 <li>Ahlswede, B. J., O'Halloran, T. L., Forsythe, J. D., & Thomas, R. Q. 2021. <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcbb.12897" target="_blank"> A minimally managed switchgrass ecosystem in a humid subtropical climate is a source of carbon to the atmosphere.</a> GCB Bioenergy, 14, 24-36.</li>
 
@@ -43,6 +43,8 @@ date: 2021-03-11
 ### Posters & Presentations
 
 <ul>
+<li> Forsythe JD, O'Halloran TL. <a href="https://www.researchgate.net/publication/412241118_Light_Quality_and_Canopy_Structure_Regulate_Coupled_Carbon_and_Water_Exchanges_in_Southern_Pine_Forests" target="_blank"> Light Quality and Canopy Structure Regulate Coupled Carbon and Water Exchanges in Southern Pine Forests.</a> Poster presented at: Ecological Society of America (ESA) Annual Meeting; July 28, 2026, Salt Lake City, Utah. DOI: 10.13140/RG.2.2.15579.12321. </li>
+<li> Forsythe J. <a href="https://github.com/JeremyDForsythe/ecoML" target="_blank"> Introduction to Machine Learning for Ecologists.</a> Organized sold-out Short Course 10 at the Ecological Society of America (ESA) Annual Meeting; July 26, 2026, Salt Lake City, Utah. </li>
 <li> Goldsmith GR, Verbeke M, Forsythe J, Fisher J. <a href="https://doi.org/10.5194/egusphere-egu26-14351" target="_blank"> A distributed model for undergraduate education in environmental remote sensing: increased student interest in science and sense of science identity and belonging.</a> Poster presented at: European Geosciences Union (EGU) General Assembly 2026. </li>
 <li> Forsythe J, Potter S, Rogers B, Berner L, Hansen W, Goetz S, Johnstone J, Mack M, Walker X. <a href="https://doi.org/10.13140/RG.2.2.36446.50242" target="_blank"> Quantifying The Controls On Boreal Forest Reburning With Interpretable Machine Learning.</a> Talk at: American Geophysical Union (AGU) 2025. </li>
 <li> Hall J, Hayes K, Asena Q, Forsythe J, Frumhoff P, Hu K-T, Mathes K, Murphy L, Rogers B, Talucci A, Wang J, Hansen W. Predicting forest burn risk from 2026 to 2040 in interior Alaska. Talk at: American Geophysical Union (AGU) 2025. </li>
